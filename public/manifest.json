@@ -1,0 +1,9 @@
+{
+  "name": "Game Day Decisions",
+  "short_name": "Game Day",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": []
+}
